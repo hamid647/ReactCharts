@@ -53,7 +53,7 @@ This isn’t just a demo — it’s a **foundation** for building more complex d
 ### 1. Clone the repository
 
 ```console
-git clone https://github.com/yourusername/pakistan-gdp-charts.git 
+git clone https://github.com/hamid647/ReactCharts.git 
 cd pakistan-gdp-charts
 ```
 ### 2. Install dependencies
