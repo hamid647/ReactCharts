@@ -1,12 +1,66 @@
-# React + Vite
+# 🚀 Pakistan GDP Charts App  
+> **Visualizing Pakistan's GDP Growth from 2015 to 2024**
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+---
 
-Currently, two official plugins are available:
+Welcome, developer! 👋  
+This is built using **React + Vite + ApexCharts**. Explore GDP trends through multiple chart types including Bar, Pie, Line, Donut, and Stacked Charts.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
 
-## Expanding the ESLint configuration
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 🛠️ Tech Stack Breakdown
+
+| Layer        | Tool / Technology |
+|-------------|-------------------|
+| **Frontend** | React, Vite       |
+| **Charts**   | ApexCharts        |
+| **Styling**  | CSS               |
+| **Structure**| Modular Components|
+
+---
+
+## 📊 Features Built In
+
+| Feature       | Description |
+|---------------|-------------|
+| **Bar Chart** | Displays annual GDP values in USD Billion |
+| **Pie Chart** | Shows percentage-based sector contribution to GDP |
+| **Line Chart** | Tracks GDP trends year-over-year |
+| **Donut Chart** | Highlights regional GDP distribution |
+| **Stacked Chart** | Compares multiple metrics across years |
+| **Navigation Bar** | Switch between charts seamlessly |
+| **Responsive Design** | Works well on desktop and mobile |
+
+---
+
+## 🧪 Why This Project Matters
+
+This isn’t just a demo — it’s a **foundation** for building more complex dashboards or integrating with real-time economic data sources later:
+
+- ✅ Understand how to structure a multi-chart React application
+- ✅ Practice creating reusable chart components
+- ✅ Learn how to manage state for dynamic UI updates
+- ✅ Master responsive design principles
+
+---
+
+
+---
+
+## 📦 How to Run the App
+
+### 1. Clone the repository
+
+```console
+git clone https://github.com/yourusername/pakistan-gdp-charts.git 
+cd pakistan-gdp-charts
+```
+### 2. Install dependencies
+```console
+npm install
+```
+### 3. Start the development server
+```console
+npm run dev
+```
