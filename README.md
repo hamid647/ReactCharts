@@ -54,7 +54,7 @@ This isn’t just a demo — it’s a **foundation** for building more complex d
 
 ```console
 git clone https://github.com/hamid647/ReactCharts.git 
-cd pakistan-gdp-charts
+cd ReactCharts
 ```
 ### 2. Install dependencies
 ```console
